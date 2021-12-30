@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tu Pham and currently I am a math teacher.
+- 👋 Hi, my name is Tu Pham. I am a math teacher .
 - 👀 I’m interested in software development and Machine Learning.
 - 💞️ I’m looking to collaborate on any interesting project to help develop my skills.
 - 📫 How to reach me at my email toopham at gmail dot com.
